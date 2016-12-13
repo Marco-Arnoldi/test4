@@ -1,0 +1,20 @@
+{
+  "name": "progetto",
+  "version": "1.0.0",
+  "description": "progetto finale",
+  "main": "server.js",
+  "dependencies": {
+    "bind": "^0.1.7",
+    "express": "^4.14.0"
+  },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/Marco-Arnoldi/test4.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "172450",
+  "license": "ISC"
+}
